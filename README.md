@@ -1,2 +1,2 @@
 # My First 2D Platformer
-[DKPlatformer.html](url)
+[https://joshg83.github.io/MyGame/DKPlatformer.html](url)
